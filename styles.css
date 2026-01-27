@@ -26,16 +26,30 @@ hr {
 }
 
 
-h1,h2,p {
+h1,h2,.para {
     text-align: center;
 }
 
 .cuisines, .flavor {
     text-align: left;
+    
+    width:70%
 }
  .prices {
     text-align:right;
+   
+    width:30%;
+    
  }
+
+ .items p {
+    display:inline-block;
+ }
+
+
+
+
+ 
 
 
 
