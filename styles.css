@@ -8,6 +8,13 @@ body {
     
 }
 
+.menu {
+    background-color: bisque;
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 hr {
     display:inline-block;
     width:50%;
