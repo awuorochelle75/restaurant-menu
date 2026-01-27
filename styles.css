@@ -9,7 +9,7 @@ body {
 }
 
 .menu {
-    background-color: bisque;
+    background-color:black;
     width:50%;
     margin-top: 15px;
     margin-bottom:15px;
@@ -17,17 +17,22 @@ body {
     margin-right: auto;
     max-width: 500px;
     padding:10px;
+    color:white;
+   
 }
 
 hr {
     
     width:50%;
+    border:2px solid whitesmoke;
    
 }
 
 
 h1,h2,.para {
     text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
 }
 
 .cuisines, .flavor {
@@ -45,6 +50,13 @@ h1,h2,.para {
  .items p {
     display:inline-block;
  }
+
+ a {
+    text-decoration: none;
+    color:red;
+ }
+
+ 
 
 
 
