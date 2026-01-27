@@ -53,7 +53,11 @@ h1,h2,.para {
 
  a {
     text-decoration: none;
-    color:red;
+    color:gold;
+ }
+
+ a:hover {
+    color:orange;
  }
 
  
